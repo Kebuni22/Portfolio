@@ -1,7 +1,7 @@
 $btnColor: #121212;
 $white: #ffffff;
 $black:#000000;
-$primary1: #f0b016;
+$primary1: #146c74;
 
 @mixin main-font {
   font-family: 'Raleway', sans-serif;
@@ -659,7 +659,7 @@ a:focus {
       }
 
       h6 {
-        color: #fbb534;
+        color: #146c74;
         text-transform: uppercase;
       }
 
@@ -727,7 +727,7 @@ a:focus {
           font-size: 22px;
 
           span {
-            color: #fbb534;
+            color: #146c74;
           }
         }
 
@@ -743,8 +743,8 @@ a:focus {
 
       &:hover {
         a {
-          border-color: #fbb534;
-          color: #fbb534;
+          border-color: #146c74;
+          color: #146c74;
         }
       }
     }
@@ -791,7 +791,7 @@ a:focus {
     .detail-box {
       h4 {
         text-transform: uppercase;
-        color: #fbb534;
+        color: #146c74;
       }
 
       h2 {}
@@ -1201,7 +1201,7 @@ a:focus {
 /* footer section*/
 
 .footer_section {
-  background-color: #f0b016;
+  background-color: #146c74;
   display: flex;
   justify-content: center;
   position: relative;
